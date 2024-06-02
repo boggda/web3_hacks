@@ -1,0 +1,3 @@
+[submodule "sonne_finance_24/forge_exploit/lib/forge-std"]
+	path = sonne_finance_24/forge_exploit/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
