@@ -1,3 +1,12 @@
 [submodule "sonne_finance_24/forge_exploit/lib/forge-std"]
 	path = sonne_finance_24/forge_exploit/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "sonne_finance_24/forge_exploit/lib/openzeppelin-contracts"]
+	path = sonne_finance_24/forge_exploit/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/lending-protocol"]
+	path = lib/lending-protocol
+	url = https://github.com/sonne-finance/lending-protocol
+[submodule "sonne_finance_24/forge_exploit/lib/lending-protocol"]
+	path = sonne_finance_24/forge_exploit/lib/lending-protocol
+	url = https://github.com/sonne-finance/lending-protocol
